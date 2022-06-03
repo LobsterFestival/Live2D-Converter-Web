@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+}
+.mainText {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    height: 75%;
+}
+
+.buttonContainer {
+    height: 200px;
+    position: relative;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+}   
+
+
+.bgimage {
+    position: relative; 
+    background-position: center;
+    background-image: url('backgroundTile.gif');
+    background-repeat: repeat;
+    height: 100%;
+}
